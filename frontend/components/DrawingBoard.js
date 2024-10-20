@@ -39,5 +39,5 @@ const DrawingBoard = ({ socket, height, width }) => {
     />
   );
 };
-
+//added clear board functionalities
 export default DrawingBoard;
