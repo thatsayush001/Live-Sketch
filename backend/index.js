@@ -3,6 +3,7 @@ const cors = require("cors");
 const http = require("http");
 const app = express();
 const server = http.createServer(app);
+//clear board event in realtime
 
 app.use(cors());
 
